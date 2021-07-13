@@ -1,6 +1,6 @@
 public class Demo{
 
-        public do process(){
+        public do process1(){
           
                  }
 }   
